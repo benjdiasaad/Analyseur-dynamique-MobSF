@@ -59,15 +59,6 @@ MobSF is also bundled with [Android Tamer](https://androidtamer.com/tamer4-relea
 * For Project updates and announcements, follow [@ajinabraham](https://twitter.com/ajinabraham) or [@OpenSecurity_IN](https://twitter.com/OpenSecurity_IN).
 * Github Issues are only for tracking bugs and feature requests. Do not post support or help queries there. We have a slack channel for that.
 
-
-### Static Analysis - Android
-
-![mobsf_android_static_analysis](https://user-images.githubusercontent.com/4301109/95506503-f9b6c980-097d-11eb-803a-f88321e1feb7.gif)
-
-### Static Analysis - iOS
-
-![mobsf_ios_ipa_static_analysis](https://user-images.githubusercontent.com/4301109/95507865-16540100-0980-11eb-9e4d-887668d46969.gif)
-
 ### Dynamic Analysis - Android APK
 
 ![mobsf_dynamic_analysis](https://user-images.githubusercontent.com/4301109/95514697-5e782100-098a-11eb-8390-47bb3822a2d7.gif)
